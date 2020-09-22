@@ -1,6 +1,6 @@
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
-<img src="./images/flappy_bird_demp.gif" width="250">
+<img src="./flappy_bird_demp.gif" width="250">
 
 7 mins version: [DQN for flappy bird](https://www.youtube.com/watch?v=THhUXIhjkCM)
 
@@ -107,9 +107,4 @@ INITIAL_EPSILON = 0.1
 
 [3] Kevin Chen. **Deep Reinforcement Learning for Flappy Bird** [Report](http://cs229.stanford.edu/proj2015/362_report.pdf) | [Youtube result](https://youtu.be/9WKBzTUsPKc)
 
-## Disclaimer
-This work is highly based on the following repos:
-
-1. [sourabhv/FlapPyBird] (https://github.com/sourabhv/FlapPyBird)
-2. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
 
